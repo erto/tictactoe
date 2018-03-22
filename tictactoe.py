@@ -86,4 +86,5 @@ print_board()
 target = input("Where do you want to go? ")
 update_board(target)
 
+print_board()
 
